@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_noms",
+  "info": {
+    "displayName": "Nom",
+    "icon": "user-edit"
+  },
+  "options": {},
+  "attributes": {
+    "Prenom": {
+      "displayName": "Prénom",
+      "type": "component",
+      "repeatable": false,
+      "component": "sections.prenom"
+    }
+  }
+}
